@@ -4,6 +4,7 @@ module.exports = {
     title: "Waleson.us",
   },
   plugins: [
+    "gatsby-plugin-netlify",
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
     {
